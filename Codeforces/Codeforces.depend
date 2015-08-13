@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1438405564 source:c:\users\alice\documents\c++\codeforces\main.cpp
+	<iostream>
+	"246a.h"
+
+1438406337 source:c:\users\alice\documents\c++\codeforces\246a.cpp
+	<iostream>
+
+1438405133 c:\users\alice\documents\c++\codeforces\246a.h
+
+1438577736 source:c:\users\alice\documents\c++\codeforces\544a.cpp
+	<iostream>
+
+1439087570 source:c:\users\alice\documents\c++\codeforces\544b.cpp
+	<iostream>
+
+1439248120 source:c:\users\alice\documents\c++\codeforces\cookmach2.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<cstdlib>
+
+1439351698 source:c:\users\alice\documents\c++\codeforces\gravity.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<cstdlib>
+
+1439336044 source:c:\users\alice\documents\c++\codeforces\magic.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<cstdlib>
+
+1439354828 source:c:\users\alice\documents\c++\codeforces\wayout.cpp
+	<iostream>
+	<fstream>
+
+1439427295 source:c:\users\alice\documents\c++\codeforces\wout.cpp
+	<iostream>
+
+1439427300 source:c:\users\alice\documents\c++\codeforces\arraygame.cpp
+	<iostream>
+	<vector>
+
